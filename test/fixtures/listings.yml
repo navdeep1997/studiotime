@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  content: MyText
+  belongs_to: 
+  category: MyString
+  verified: false
+  ratings: 1.5
+  studio_type: MyString
+  quick_replies: false
+  audio_engineer: false
+  photo_url: MyString
+  minimum_booking: 1
+  amenities: MyString
+  main_equipments: MyString
+  past_clients: MyString
+  audio_sample: MyString
+  studio_hours: MyString
+  studio_rule: MyText
+  studio_cancellation_policy: MyText
+  verified_reviews: 1
+  location: MyString
+
+two:
+  title: MyString
+  content: MyText
+  belongs_to: 
+  category: MyString
+  verified: false
+  ratings: 1.5
+  studio_type: MyString
+  quick_replies: false
+  audio_engineer: false
+  photo_url: MyString
+  minimum_booking: 1
+  amenities: MyString
+  main_equipments: MyString
+  past_clients: MyString
+  audio_sample: MyString
+  studio_hours: MyString
+  studio_rule: MyText
+  studio_cancellation_policy: MyText
+  verified_reviews: 1
+  location: MyString
